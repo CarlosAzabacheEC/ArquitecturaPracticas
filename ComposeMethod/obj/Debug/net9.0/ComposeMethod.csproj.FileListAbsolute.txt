@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\bin\Debug\net9.0\ComposeMethod.deps.json
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\bin\Debug\net9.0\ComposeMethod.dll
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\bin\Debug\net9.0\ComposeMethod.pdb
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ComposeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ComposeMethod.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ComposeMethod.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ComposeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ComposeMethod.dll
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\refint\ComposeMethod.dll
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ComposeMethod.pdb
+C:\Users\Lenovo\Documents\Aprendizaje\ArquitecturaSoftware\Exeal\Compose Method\ArquitecturaPracticas\ComposeMethod\obj\Debug\net9.0\ref\ComposeMethod.dll
